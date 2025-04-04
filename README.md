@@ -1,6 +1,6 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31juwpv3sapxzgmufghrara3klv4&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=969696&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31juwpv3sapxzgmufghrara3klv4&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=C05B8D&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-![](https://komarev.com/ghpvc/?username=europeangayporn&color=lightgrey&style=plastic)
+![](https://komarev.com/ghpvc/?username=europeangayporn&color=AA6DA6&style=plastic)
 
 pony town info （＾Ｏ＾☆♪
 - offtab usually, whisper me to interact
